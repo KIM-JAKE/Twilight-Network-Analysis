@@ -1,0 +1,10 @@
+PyMuPDF
+nltk
+nltk.download('punkt')
+pandas
+numpy
+fitz
+codecs
+spacy
+networkx
+afinn
