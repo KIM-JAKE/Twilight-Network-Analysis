@@ -55,10 +55,10 @@ This project was conducted for the purpose of analyzing the emotional network an
 
 ## Additional task
 - **Community Detection**
-- 
+ 
 ![image](https://github.com/KIM-JAKE/Twilight-Network-Analysis/assets/138518817/b8214ae5-bc5b-4bc7-a4d2-59cdbd345bcf)
 
 - **Analyzing the well-known 'Romeo and Juliet'**
-- 
+  
 ![image](https://github.com/KIM-JAKE/Twilight-Network-Analysis/assets/138518817/e499b186-8f27-4192-848c-a66f5a281c1a)
 
